@@ -1,3 +1,4 @@
+# Teste de gatilho
 terraform {
   required_providers {
     docker = {
